@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RACAlertAction"
-  s.version      = "0.2.0"
+  s.version      = "0.2.1"
   s.summary      = "UIAlertAction subclass with support for ReactiveCocoa"
   s.description  = <<-DESC
                    iOS 8 introduced `UIAlertController`, an abstraction above and replacement
